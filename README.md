@@ -11,7 +11,7 @@ differently depending on the country.
 Install the latest version with
 
 ```bash
-$ composer require predicthq/address-formatter
+$ composer require osmsupport/address-formatter
 ```
 
 
